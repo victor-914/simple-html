@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+	
+<!-- Mirrored from pepeai.me/contact-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 14 May 2023 18:55:11 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+		<meta charset="UTF-8">
+		<meta name="keywords" content="Pepe AI, ChatGPT, GPT-3, DALL-E, Cryptocurrency, Altcoin, Blockchain, Decentralization, Decentralized Finance (DeFi), HODL">
+		<meta name="description" content="Pepe AI - is a fully decentralized, self-managed wallet protocol where we grant our investors to easily and securely interact with their tokens, all supported by superior risk analysis and smart contract management tools.">
+      		<meta property="og:site_name" content="Pepe AI">
+      		<meta property="og:url" content="https://futureai.app/">
+      		<meta property="og:type" content="website">
+      		<meta property="og:title" content="Pepe AI - is a fully decentralized, self-managed wallet protocol where we grant our investors to easily and securely interact with their tokens, all supported by superior risk analysis and smart contract management tools.">
+		<meta name='og:image' content='images/assets/banner.png'>
+		<!--  Essential META Tags -->
+		<meta property="og:title" content="Pepe AI">
+		<meta property="og:type" content="Website" />
+		<meta property="og:image" content="images/assets/banner.png">
+		<meta property="og:url" content="index.html">
+		<meta name="twitter:card" content="summary_large_image">
+		<!-- For IE -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<!-- For Resposive Device -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- For Window Tab Color -->
+		<!-- Chrome, Firefox OS and Opera -->
+		<meta name="theme-color" content="#1E78FF">
+		<!-- Windows Phone -->
+		<meta name="msapplication-navbutton-color" content="#1E78FF">
+		<!-- iOS Safari -->
+		<meta name="apple-mobile-web-app-status-bar-style" content="#1E78FF">
+		<title>Pepe AI - is a fully decentralized, self-managed wallet protocol where we grant our investors to easily and securely interact with their tokens, all supported by superior risk analysis and smart contract management tools.</title>
+		<!-- Favicon -->
+		<link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/favicon.png">
+		<!-- Main style sheet -->
+		<link rel="stylesheet" type="text/css" href="css/style.css" media="all">
+		<!-- responsive style sheet -->
+		<link rel="stylesheet" type="text/css" href="css/responsive.css" media="all">
+
+		<!-- Fix Internet Explorer ______________________________________-->
+		<!--[if lt IE 9]>
+			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+			<script src="vendor/html5shiv.js"></script>
+			<script src="vendor/respond.js"></script>
+		<![endif]-->	
+	</head>
+
+	<body>
+		<div class="main-page-wrapper">
+			<!-- ===================================================
+				Loading Transition
+			==================================================== -->
+			<section>
+				<div id="preloader">
+					<div id="ctn-preloader" class="ctn-preloader">
+						<div class="animation-preloader">
+							<div class="txt-loading mt-2">
+								<span data-text-preloader="P" class="letters-loading">
+									P
+								</span>
+								<span data-text-preloader="E" class="letters-loading">
+									E
+								</span>
+								<span data-text-preloader="P" class="letters-loading">
+									P
+								</span>
+								<span data-text-preloader="E" class="letters-loading">
+									E
+								</span>
+								<span data-text-preloader="-" class="letters-loading">
+									=
+								</span>
+								<span data-text-preloader="A" class="letters-loading">
+									A
+								</span>
+								<span data-text-preloader="I" class="letters-loading">
+									I
+								</span>
+							</div>
+						</div>	
+					</div>
+				</div>
+			</section>
+
+			<!-- 
+			=============================================
+				Theme Main Menu
+			============================================== 
+			-->
+			<header class="theme-main-menu sticky-menu">
+				<div class="inner-content">
+					<div class="top-header">
+					</div> <!-- /.top-header -->
+					<div class="container d-flex align-items-center justify-content-between">
+						<div class="logo order-lg-0"><a href="index.html" class="d-block"><img src="images/logo/logo_01.png" alt="" width="130"></a></div>
+						<a href="https://app.pepeai.me/" class="get-in-touch-btn d-none d-lg-block order-lg-3">App</a>
+						<nav class="navbar navbar-expand-lg order-lg-2">
+							<button class="navbar-toggler d-block d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+						    	<span></span>
+						 	</button>
+						    	<div class="collapse navbar-collapse" id="navbarNav">
+						        <li class="d-block d-lg-none"><div class="logo"><a href="index.html"><img src="images/logo/logo_01.png" alt="" width="130"></a></div></li>
+						    	<ul class="navbar-nav">
+								<li class="nav-item">
+								  <a class="nav-link" href="index.html" role="button">Home</a>
+								  </li>
+								  <li class="nav-item">
+								  <a class="nav-link" href="about-us" role="button">About Us</a>
+								  </li>
+								  <li class="nav-item">
+								  <a class="nav-link" href="#products" role="button">Products</a>
+								  </li>
+								  <li class="nav-item">
+								  <a class="nav-link" href="iNFT" role="button">iNFT</a>
+								  </li>
+								  <li class="nav-item">
+								  <a class="nav-link" href="#docs" role="button">Docs</a>
+								  </li>
+								  <li class="nav-item">
+								  <a class="nav-link" href="#roadmap" role="button">Roadmap</a>
+								  </li>
+								  <li class="nav-item">
+								  <a class="nav-link" href="https://pepe-ai.gitbook.io/pepe-ai/" role="button">Whitepaper</a>
+								  </li>
+								  <li class="nav-item">
+								  <a class="nav-link" href="contact-us" role="button">Contact Us</a>
+								  </li>
+						    	</ul>
+						    	<!-- Mobile Content -->
+						    	<div class="mobile-content d-block d-lg-none">
+						    		<div class="d-flex flex-column align-items-center justify-content-center mt-70">
+						    			<a href="https://app.pepeai.me/" class="get-in-touch-btn">App</a>
+						    		</div>
+						    	</div> <!-- /.mobile-content -->
+						    </div>
+						</nav>
+					</div>
+				</div> <!-- /.inner-content -->
+			</header> <!-- /.theme-main-menu -->
+			
+			<!-- 
+			=============================================
+				Theme Inner Banner
+			============================================== 
+			-->
+			<div class="theme-inner-banner">
+				<div class="container">
+					<h2 class="intro-title text-center">Get in Touch</h2>
+					<ul class="page-breadcrumb style-none d-flex justify-content-center">
+						<li><a href="index.html">Home</a></li>
+						<li class="current-page">Contact</li>
+					</ul>
+				</div>
+			</div> <!-- /.theme-inner-banner -->
+
+			
+			
+
+			<!-- 
+			=============================================
+				Contact Section One
+			============================================== 
+			-->
+			<div class="contact-section-one mb-170 lg-mb-120">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-4">
+							<div class="address-block-two text-center mb-40 sm-mb-20">
+								<div class="icon d-flex align-items-center justify-content-center m-auto"><img src="images/icon/icon_17.png" alt=""></div>
+								<h5 class="title">Telegram Annoucement</h5>
+								<p><a href="https://t.me/PepeAi_Annoucements" class="call">Join Now</a></p>
+							</div> <!-- /.address-block-two -->
+						</div>
+						<div class="col-md-4">
+							<div class="address-block-two text-center mb-40 sm-mb-20">
+								<div class="icon d-flex align-items-center justify-content-center m-auto"><img src="images/icon/icon_18.png" alt=""></div>
+								<h5 class="title">Telegram Group</h5>
+								<p><a href="https://t.me/PepeAi_Official_Group" class="call">Join Now</a></p>
+							</div> <!-- /.address-block-two -->
+						</div>
+						<div class="col-md-4">
+							<div class="address-block-two text-center mb-40 sm-mb-20">
+								<div class="icon d-flex align-items-center justify-content-center m-auto"><img src="images/icon/icon_19.png" alt=""></div>
+								<h5 class="title">Send Email</h5>
+								<p><a href="mailto:contact@pepeai.me" class="webaddress">contact@pepeai.me</a></p>
+							</div> <!-- /.address-block-two -->
+						</div>
+					</div>
+				</div>
+
+				<div class="mt-100 lg-mt-70">
+					<div class="container">
+						<div class="row gx-xxl-5">
+							<div class="col-lg-6 d-flex order-lg-last">
+								<div class="form-style-one">
+									<h3 class="form-title pb-40 lg-pb-20">Send Message.</h3>
+									<form action="https://pepeai.me/inc/contact.php" id="contact-form"  data-toggle="validator">
+										<div class="messages"></div>
+										<div class="row controls">
+											<div class="col-12">
+												<div class="input-group-meta form-group mb-30">
+													<label>Name*</label>
+													<input type="text" placeholder="Your Name" name="name" required="required" data-error="Name is required.">
+													<div class="help-block with-errors"></div>
+												</div>
+											</div>
+											
+											<div class="col-12">
+												<div class="input-group-meta form-group mb-30">
+													<label>Email*</label>
+													<input type="email" placeholder="Your Email" name="email" required="required" data-error="Valid email is required.">
+													<div class="help-block with-errors"></div>
+												</div>
+											</div>
+											<div class="col-12">
+												<div class="input-group-meta form-group mb-30">
+													<textarea placeholder="Your message*" name="message" required="required" data-error="Please,leave us a message."></textarea>
+													<div class="help-block with-errors"></div>
+												</div>
+											</div>
+											<div class="col-12"><button class="btn-eight ripple-btn">Send Message</button></div>
+										</div>
+									</form>
+								</div> <!-- /.form-style-one -->
+							</div>
+						</div>
+					</div>
+				</div>
+			</div> <!-- /.contact-section-one -->
+			
+			<!--
+			=====================================================
+				Footer
+			=====================================================
+			-->
+			<div class="footer-style-two theme-basic-footer">
+				<div class="container">
+					<div class="inner-wrapper">
+						<div class="row">
+							<div class="col-lg-3 footer-intro mb-40">
+								<div class="logo"><a href="index.html"><img src="images/logo/logo_01.png" alt="" width="130"></a></div>
+								<p>Our Pepe AI protocol is a non-custodial one, where we create a new ecosystem of automated digital 
+								asset management that uses AI with analytical data and makes it available to users.</p>
+								<ul class="d-flex social-icon style-none">
+									<li><a href="https://t.me/PepeAi_Global"><i class="fab fa-telegram"></i></a></li>
+									<li><a href="https://twitter.com/PepeAItoken_"><i class="fab fa-twitter"></i></a></li>
+								 	<li><a href="https://discord.gg/jYgcVVF5s6"><i class="fab fa-discord"></i></a></li>
+									<li><a href="https://medium.com/@PepeAItoken"><i class="fab fa-medium"></i></a></li>
+									<li><a href="https://www.reddit.com/user/PepeAItoken"><i class="fab fa-reddit"></i></a></li>
+								</ul>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-6 mb-30">
+								<h5 class="footer-title">Quick Menu</h5>
+								<ul class="footer-nav-link style-none">
+									<li><a href="index.html">Home</a></li>
+									<li><a href="about-us">About us</a></li>
+									<li><a href="index.html#products">Products</a></li>
+									<li><a href="iNFT">iNFT</a></li>
+									<li><a href="index.html#docs">Documents</a></li>
+									<li><a href="contact-us">Contact Us</a></li>
+								</ul>
+							</div>
+							<div class="col-xl-2 col-md-3 col-sm-6 mb-30">
+								<h5 class="footer-title">Useful Links</h5>
+								<ul class="footer-nav-link style-none">
+									<li><a href="https://www.pinksale.finance/launchpad/0x19f60616e86EA61f4d31D24256A36b1a72710d69?chain=BSC&amp;refId=0x6d3062399f6229db8B58E68E1aD767FC6bBB4410">Pinksale</a></li>
+									<li><a href="https://www.dexview.com/">DexView</a></li>
+									<li><a href="https://www.binance.com/">Binance</a></li>
+									<li><a href="https://pancakeswap.finance/">PancakeSwap</a></li>
+									<li><a href="https://metamask.io/">Metamask</a></li>
+									<li><a href="https://trustwallet.com/">TrustWallet</a></li>
+								</ul>
+							</div>
+							
+							<div class="col-xl-5 col-lg-4 col-md-6 mb-30">
+								<div class="newsletter ps-xl-5">
+									<h5 class="footer-title">Join Our Newsletter & Get updated.</h5>
+									<form action="#">
+										<input type="email" placeholder="Enter your email">
+										<button>Subscribe</button>
+									</form>
+									<div class="info">We only send interesting and relevant emails.</div>
+								</div> <!-- /.newsletter -->
+							</div>
+						</div>
+
+						     <div class="bottom-footer">
+							<div class="d-lg-flex justify-content-between align-items-center">
+								<ul class="order-lg-1 pb-15 d-flex justify-content-center footer-nav style-none">
+									<li><a href="mailto:contact@pepeai.me">contact@pepeai.me</a></li>
+								</ul>
+								<p class="copyright text-center order-lg-0 pb-15">Copyright @2023 Pepe AI</p>
+							</div>
+						</div>
+					</div> <!-- /.inner-wrapper -->
+				</div>
+			</div> <!-- /.footer-style-two -->
+
+
+			<button class="scroll-top">
+				<i class="bi bi-arrow-up-short"></i>
+			</button>
+			
+
+		<!-- Optional JavaScript _____________________________  -->
+
+    	<!-- jQuery first, then Bootstrap JS -->
+    	<!-- jQuery -->
+		<script src="vendor/jquery.min.js"></script>
+		<!-- Bootstrap JS -->
+		<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+		<!-- AOS js -->
+		<script src="vendor/aos-next/dist/aos.js"></script>
+		<!-- Slick Slider -->
+		<script src="vendor/slick/slick.min.js"></script>
+		<!-- js Counter -->
+		<script src="vendor/jquery.counterup.min.js"></script>
+		<script src="vendor/jquery.waypoints.min.js"></script>
+		<!-- Fancybox -->
+		<script src="vendor/fancybox/dist/jquery.fancybox.min.js"></script>
+		<!-- validator js -->
+    	<script src="vendor/validator.js"></script>
+
+		<!-- Theme js -->
+		<script src="js/theme.js"></script>
+		</div> <!-- /.main-page-wrapper -->
+	</body>
+
+<!-- Mirrored from pepeai.me/contact-us by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 14 May 2023 18:55:21 GMT -->
+</html>
